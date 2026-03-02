@@ -50,7 +50,6 @@ El Qubit actúa como un sistema de **Just-In-Time Rendering**. La realidad se co
 
 **© 2026 Johnny Sylvester Guerra.** *Todos los derechos reservados. Este documento constituye propiedad intelectual protegida para fines de investigación y desarrollo tecnológico.*
 
----
 
 ---
 
@@ -83,9 +82,10 @@ Se han ejecutado 100,000 simulaciones para medir la respuesta del sistema ante i
 ### 3. Aplicación del Gradiente Nabla Sigma ($\nabla \sigma$)
 Para garantizar la precisión absoluta y evitar la disipación de información en forma de calor (**Principio de Landauer**), se aplica el gradiente de estabilidad corregido:
 
-$$\nabla \sigma (Q) = \text{estabilidad\_max}$$
-
-
+$$\nabla \sigma (Q) = \text{estabilidad maxima}$$
 
 ---
 **© 2026 Johnny Sylvester Guerra.** *Propiedad Intelectual Protegida - SF 9.4 (DOI: 10.5281/zenodo.18828321).*
+
+
+
