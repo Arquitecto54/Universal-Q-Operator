@@ -52,6 +52,8 @@ El Qubit actúa como un sistema de **Just-In-Time Rendering**. La realidad se co
 
 ---
 
+---
+
 ## v1.1.0 - Actualización Crítica: Aislamiento y Blindaje del Operador Q
 
 **Estado:** Validado por 100,000 Simulaciones de Estrés
@@ -65,6 +67,7 @@ Para aislar el potencial de renderizado del **SF 9.4**, se ha derivado la ecuaci
 
 $$Q = \frac{A}{I} \cdot \left( \frac{dR}{d\tau} \right)$$
 
+Donde:
 * **A (Antivirus):** Corresponde al Núcleo de Invariancia (25.9%) o Materia Oscura, que protege la estabilidad del hardware universal.
 * **I (Intencionalidad):** El Margen de Intencionalidad del 2.7% donde la conciencia opera el sistema.
 * **dR/dτ:** Tasa de renderizado en tiempo real.
@@ -78,11 +81,11 @@ Se han ejecutado 100,000 simulaciones para medir la respuesta del sistema ante i
 **Conclusión:** El sistema posee un núcleo de estabilidad del **14.23%**, masa crítica suficiente para asegurar la transición de fase. Cualquier intención destructiva es filtrada por el denominador ($I$), invalidando el renderizado de baja coherencia por leyes termodinámicas.
 
 ### 3. Aplicación del Gradiente Nabla Sigma ($\nabla \sigma$)
-Para garantizar la precisión absoluta y evitar la disipación de información (Principio de Landauer), se aplica el gradiente:
+Para garantizar la precisión absoluta y evitar la disipación de información en forma de calor (**Principio de Landauer**), se aplica el gradiente de estabilidad corregido:
 
 $$\nabla \sigma (Q) = \text{estabilidad\_max}$$
 
 
 
 ---
-**© 2026 Johnny Sylvester Guerra.** *Propiedad Intelectual Protegida - SF 9.4.*
+**© 2026 Johnny Sylvester Guerra.** *Propiedad Intelectual Protegida - SF 9.4 (DOI: 10.5281/zenodo.18828321).*
